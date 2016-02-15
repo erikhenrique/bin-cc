@@ -25,3 +25,10 @@ Fique a vontade para mandar um PR para que esta tabela permaneça atualizada. Ao
 | Aura       | 50                                          | 16               | 3                    |
 | jcb        | 35                                          | 16               | 3                    |
 | Hipercard  | 38,60                                       | 13,16,19         | 3                    |
+
+
+# Contribuidores
+
+- @jotafelipe
+- @ahonorato 
+- @renatoelias
