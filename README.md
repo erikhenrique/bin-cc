@@ -3,6 +3,7 @@ Validação para cartão de crédito.
 
 Bin e padrões para validação de cartão de crédito.
 
+Repositório para esta [gist](https://gist.github.com/erikhenrique/5931368)
 
 Os dados dos cartões: ~~Elo~~, Hipercard desta tabela *não* são oficiais.
 Tentei diversas vezes falar com o pessoal dessas bandeiras afim de ter uma informação oficial, porém, é muito difícil falar com o setor técnico e as atendentes nem sabem o que é bin de cartão :(
@@ -25,11 +26,6 @@ Fique a vontade para mandar um PR para que esta tabela permaneça atualizada. Ao
 | Aura       | 50                                          | 16               | 3                    |
 | jcb        | 35                                          | 16               | 3                    |
 | Hipercard  | 38,60                                       | 13,16,19         | 3                    |
-
-
-
-
-
 
 
 
