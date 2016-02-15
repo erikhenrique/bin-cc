@@ -4,7 +4,7 @@ Validação para cartão de crédito.
 Bin e padrões para validação de cartão de crédito.
 
 
-Os dados dos cartões: Elo, Hipercard desta tabela *não* são oficiais.
+Os dados dos cartões: ~~Elo~~, Hipercard desta tabela *não* são oficiais.
 Tentei diversas vezes falar com o pessoal dessas bandeiras afim de ter uma informação oficial, porém, é muito difícil falar com o setor técnico e as atendentes nem sabem o que é bin de cartão :(
 
 Esta tabela inicialmente foi montada com coleta de dados de cartões de crédito reais. Onde o usuário colocava o número do cartão de crédito dele e quando não conseguíamos saber qual a banheira pedíamos para que o usuário selecionasse a bandeira e desta forma armazenavamos os primeiros digitos do cartão.
