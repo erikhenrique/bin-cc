@@ -23,10 +23,6 @@ Array.prototype.push.apply(ELO_BINS, lodash.range(651652,651679));
 Array.prototype.push.apply(ELO_BINS, lodash.range(655000,655019));
 Array.prototype.push.apply(ELO_BINS, lodash.range(655021, 655058));
 
-//retrive from legacy code
-const HU_BINS = [53043450,53043451,53043452,53043453,54888620,54888621,54888622,54888623,54888624,54888625,54888626,54888627,54888628,54888629];
-
-
 describe('Find Brand tests', function() {
     this.timeout(5000);
 
