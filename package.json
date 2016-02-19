@@ -1,6 +1,6 @@
 {
   "name": "creditcard-identifier",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Brazilian CreditCard Identifier",
   "main": "creditcard-identifier.js",
   "scripts": {
