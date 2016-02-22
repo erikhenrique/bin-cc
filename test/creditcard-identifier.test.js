@@ -7,7 +7,6 @@ const findBrand = creditcardIdentifier.findBrand;
 
 let expect = Chai.expect;
 
-//retrive in email from cielo sent to beatriz.rodrigues
 let ELO_BINS = [401178,401179,431274,438935,451416,457393,457631,457632,504175,627780,636297,636368];
 Array.prototype.push.apply(ELO_BINS, lodash.range(506699,506778));
 Array.prototype.push.apply(ELO_BINS, lodash.range(509000,509999));
